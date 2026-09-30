@@ -30,5 +30,7 @@ print(s[-2:-5:-1])
 print(s[-6:-1:-2]) #empty
 print(s[4:2:-1])
 print(s[0:2:-1]) #empty
-print(s[ ::])
+print(s[ ::]) #python
 
+text = "Programming"
+print(text[0:5])
